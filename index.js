@@ -25,7 +25,7 @@ var outputString;
         outputString=outputString +(i+1)+"."+katzDeliLine[i];
       }
   else {
-    outputString=outputString+","+(i+1)+"."+katzDeliLine[i];
+    outputString=outputString +","+(i+1)+"."+katzDeliLine[i];
   }
   }
   }
