@@ -13,4 +13,3 @@ function nowServing(katzDeliLine) {
   }
   return katzDeliLine
 }
-
